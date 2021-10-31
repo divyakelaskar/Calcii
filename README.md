@@ -1,1 +1,3 @@
-# Calcii
+# 📱 Calcii
+
+Make maths more fun !
